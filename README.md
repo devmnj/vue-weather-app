@@ -1,6 +1,6 @@
 # Quasar App (vue-wether-app)
 
-This is a Vuejs-Quasar weather app that work on iOS/Android, Mac and Windows machines. 
+This is a Vuejs-Quasar weather app that work on iOS/Android, Mac and Windows machines.
 
 ## Install the dependencies
 ```bash
@@ -38,6 +38,7 @@ npm install -g cordova
 ### Cordova Plugin Installation for iOS
 cordova plugin add cordova-plugin-geolocation
 ## Android
-Install the plugin 
+Install the plugin
 ```cordova plugin add cordova-plugin-geolocation --variable GPS_REQUIRED="false"```
- 
+### Note
+
