@@ -40,5 +40,6 @@ cordova plugin add cordova-plugin-geolocation
 ## Android
 Install the plugin
 ```cordova plugin add cordova-plugin-geolocation --variable GPS_REQUIRED="false"```
-### Note
+### Screen Shots
+<img src=screenshots\weather-app.png/> 
 
